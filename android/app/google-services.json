@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153273381669",
+    "project_id": "legaspi-advmblprog",
+    "storage_bucket": "legaspi-advmblprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153273381669:android:9d423738b2bd1b4e8be0cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtyI2RlXQnLsFGkd7GNe57hb7EJ9oMahI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153273381669:android:ef9f6bcbb50e7ed08be0cc",
+        "android_client_info": {
+          "package_name": "com.example.legaspi_labact4api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtyI2RlXQnLsFGkd7GNe57hb7EJ9oMahI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
